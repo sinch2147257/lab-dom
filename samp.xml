@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoffeeHouse >
+    <product>
+        <name> Vanilla Latte </name>
+        <price>150</price>
+        <offer>10%</offer>
+        <available>yes</available>
+        <description>
+                This is an easy espresso drink to make with your home espresso machine--steamed milk 
+                and a shot of espresso with vanilla flavoring.
+        </description>
+    </product>
+
+    <product>
+        <name> Cocoa Cappuccino </name>
+        <price>200</price>
+        <offer>10%</offer>
+        <available>yes</available>
+        <description>
+               A cappuccino is a coffee-based drink made
+            primarily from espresso and milk.
+        </description>
+    </product>
+
+    <product>
+        <name>White Chocolate Mocha </name>
+        <price>250</price>
+        <offer>20%</offer>
+        <available>yes</available>
+        <description>
+                Rich dark espresso and smooth, melted white chocolate pair together perfectly and a big dollop
+                of sweetened whipped cream on top is a must.
+        </description>
+    </product>
+
+    <product>
+        <name>Kakori Kebab Wrap</name>
+        <price>250</price>
+        <offer>20%</offer>
+        <available>No</available>
+        <description>
+                kakori kebabs are not only soft and succulant kebabs but also 
+                are the unique blend of 52 spices slowly cooked over charcoal.
+        </description>
+    </product>
+
+    <product>
+        <name>Iced Shaken Black Tea</name>
+        <price>300</price>
+        <offer>20%</offer>
+        <available>yes</available>
+        <description>
+                The tea "infusion" is bursting with refreshing hints of pineapple flavor
+                that aren't overwhelming or too sweet in the slightest
+        </description>
+    </product>
+
+    <product>
+        <name>Carrot Cake</name>
+        <price>150</price>
+        <offer>20%</offer>
+        <available>yes</available>
+        <description>
+                This Carrot Cake is moist and flavorful with grated carrots and
+                is frosted with a delicious cream cheese frosting.
+        </description>
+    </product>
+
+    <product>
+        <name>Iced Shaken Green Tea</name>
+        <price>200</price>
+        <offer>20%</offer>
+        <available>No</available>
+        <description>
+                Green tea blended with mint, lemongrass and lemon verbena, then
+                sweetened just right and given a good shake with ice.
+        </description>
+    </product>
+
+    <product>
+        <name>Three Cheese Croissant</name>
+        <price>160</price>
+        <offer>20%</offer>
+        <available>No</available>
+        <description>
+                 These warm and buttery stuffed croissants are available in two flavors:
+                Three Cheese, stuffed with mozzarella
+        </description>
+    </product>
+
+</CoffeeHouse>
